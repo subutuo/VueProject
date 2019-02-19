@@ -53,6 +53,8 @@
   body {
     text-align: center;
     background-color: #F6F6F8;
+    max-width: 400px;
+    margin: 0 auto;
   }
   input {
     border-style: groove;
